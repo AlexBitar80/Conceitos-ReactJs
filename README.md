@@ -33,7 +33,7 @@ $ cd Conceitos-ReactJs-master
 # rode esses comandos para instalar as dependências
 $ yarn ou npm install
 
-# use esses comandos para rodar o API
+# use esses comandos para rodar o Projeto
 $ yarn start ou npm run start
 
 # use esses comandos para rodar os testes
